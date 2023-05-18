@@ -5,8 +5,11 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="38e83f0a-c0ca-4065-a903-8fa3d9c13e2b" name="Changes" comment="отсортировал по году выпуска и мощности4">
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/while.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/Переменные.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/Типы данных.kt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/kotlin/break continue.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/kotlin/while.kt" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -22,6 +25,7 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="Kotlin Enum" />
+        <option value="Kotlin Class" />
       </list>
     </option>
   </component>
@@ -57,7 +61,14 @@
       <option name="project" value="LOCAL" />
       <updated>1683561348005</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="отсортировал по году выпуска и мощности4">
+      <created>1684154711118</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1684154711118</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -73,6 +84,7 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="отсортировал по году выпуска и мощности" />
-    <option name="LAST_COMMIT_MESSAGE" value="отсортировал по году выпуска и мощности" />
+    <MESSAGE value="отсортировал по году выпуска и мощности4" />
+    <option name="LAST_COMMIT_MESSAGE" value="отсортировал по году выпуска и мощности4" />
   </component>
 </project>
