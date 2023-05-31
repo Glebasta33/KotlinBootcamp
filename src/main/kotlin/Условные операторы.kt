@@ -1,22 +1,42 @@
-import kotlin.random.Random
-fun main() {
-    val a = Random.nextInt(-5, 6)
-    if (a > 0)
-        println(1)
-    else
-        if (a < 0)
-            println(-1)
-        else
-            println(0)
-}
+//fun main() {
+//    val age = 55
+//
+//    if (age > 29){
+//        if (age >= 60){
+//            println("Нет")
+//        }
+//       else println("Вам больше 30")
+//    }
+//    else if (age > 17) {
+//        println("Вам больше 18")
+//    }
+//    else {
+//        println("Вам меньше 18")
+//    }
+//}
 
-fun main() {
-    val num = Random.nextInt(32, 123)
-    val ch = num.toChar()
-    println(ch)
-    when {
-        ch.isDigit() -> println("Это цифра")
-        ch.isLetter() -> println("Это буква")
-        else -> println("Это не буква и не цифра")
+fun main(){
+    val day: String = "vtornik"
+
+    when(day){
+        "sreda" -> println("sreda")
+        "vtornik" -> println("vtornik")
     }
 }
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
