@@ -1,3 +1,4 @@
+import kotlin.random.Random
 fun main() {
     val a = mutableListOf(1, 2, 3, 4, 5)
     println(a)
@@ -5,21 +6,18 @@ fun main() {
     println(a)
     a.shuffle()
     println(a)
-}
 
-import kotlin.random.Random
-fun main() {
-    val a = mutableListOf<Int>()
+    val a2 = mutableListOf<Int>()
 
     for (i in 0..9) {
-        a.add(Random.nextInt(50))
+        a2.add(Random.nextInt(50))
     }
-    println(a)
+    println(a2)
 
-    a.sort()
-    println(a)
+    a2.sort()
+    println(a2)
 
-    a.removeAt(9)
-    a.removeAt(0)
-    println(a)
+    a2.removeAt(9)
+    a2.removeAt(0)
+    println(a2)
 }
