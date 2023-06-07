@@ -14,7 +14,7 @@ import kotlin.random.Random
 //    }
 //}
 
-fun main2() {
+fun main() {
     val a = Array (10) {0}
     var i = 0
     while (i < a.size){
